@@ -1,5 +1,9 @@
 # prometheus-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/prometheus-or-just-updated-metrics-behin?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Prometheus template](https://railway.com/deploy/prometheus-or-just-updated-metrics-behin?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Prometheus 3.15.0 packaged for a one-click Railway deploy.
 
 Differences from running the stock `prom/prometheus` image on Railway:
